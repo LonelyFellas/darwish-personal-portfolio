@@ -4,12 +4,117 @@ export default function Home() {
     <main>
       <div>i am the home page</div>
       <div>
-        <a href="/about">about</a>
-        <a href="/contact">contact</a>
-        <a href="/portfolio">portfolio</a>
-        <a href="/blog">blog</a>
-        <a href="/resume">resume</a>
+        <div>about</div>
+        <div>contact</div>
+        <div>portfolio</div>
+        <div>blog</div>
+        <div>resume</div>
       </div>
+       <div>i am the home page</div>
+      <div>
+        <div>about</div>
+        <div>contact</div>
+        <div>portfolio</div>
+        <div>blog</div>
+        <div>resume</div>
+      </div>
+       <div>i am the home page</div>
+      <div>
+        <div>about</div>
+        <div>contact</div>
+        <div>portfolio</div>
+        <div>blog</div>
+        <div>resume</div>
+      </div>
+       <div>i am the home page</div>
+      <div>
+        <div>about</div>
+        <div>contact</div>
+        <div>portfolio</div>
+        <div>blog</div>
+        <div>resume</div>
+      </div>
+       <div>i am the home page</div>
+      <div>
+        <div>about</div>
+        <div>contact</div>
+        <div>portfolio</div>
+        <div>blog</div>
+        <div>resume</div>
+      </div>
+       <div>i am the home page</div>
+      <div>
+        <div>about</div>
+        <div>contact</div>
+        <div>portfolio</div>
+        <div>blog</div>
+        <div>resume</div>
+      </div>
+          <div>i am the home page</div>
+      <div>
+        <div>about</div>
+        <div>contact</div>
+        <div>portfolio</div>
+        <div>blog</div>
+        <div>resume</div>
+      </div>
+      <div>i am the home page</div>
+      <div>
+        <div>about</div>
+        <div>contact</div>
+        <div>portfolio</div>
+        <div>blog</div>
+        <div>resume</div>
+      </div>
+      <div>i am the home page</div>
+      <div>
+        <div>about</div>
+        <div>contact</div>
+        <div>portfolio</div>
+        <div>blog</div>
+        <div>resume</div>
+      </div>
+      <div>i am the home page</div>
+      <div>
+        <div>about</div>
+        <div>contact</div>
+        <div>portfolio</div>
+        <div>blog</div>
+        <div>resume</div>
+      </div>
+          <div>i am the home page</div>
+      <div>
+        <div>about</div>
+        <div>contact</div>
+        <div>portfolio</div>
+        <div>blog</div>
+        <div>resume</div>
+      </div>
+      <div>i am the home page</div>
+      <div>
+        <div>about</div>
+        <div>contact</div>
+        <div>portfolio</div>
+        <div>blog</div>
+        <div>resume</div>
+      </div>
+      <div>i am the home page</div>
+      <div>
+        <div>about</div>
+        <div>contact</div>
+        <div>portfolio</div>
+        <div>blog</div>
+        <div>resume</div>
+      </div>
+      <div>i am the home page</div>
+      <div>
+        <div>about</div>
+        <div>contact</div>
+        <div>portfolio</div>
+        <div>blog</div>
+        <div>resume</div>
+      </div>
+
     </main>
   );
 }

@@ -3,8 +3,16 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
+  --background: #efe4efe4;
   --foreground: #171717;
+  --header-background: #FFFFFF;
+  --accents-1: #fafafa;
+  --accents-2: #eaeaea;
+  --accents-3: #999;
+  --accents-4: #888;
+  --accents-5: #666;
+  --accents-6: #444;
+  --accents-7: #333;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -18,6 +26,22 @@ body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+}
+.main-header {
+  background: none;
+  display: flex;
+  /* flex-direction: column; */
+  /* justify-content: space-around; */
+  align-items: center;
+  width: 100%;
+  z-index: 1000;
+  padding: 0 24px;
+  height: 64px;
+  box-shadow: inset 0 -1px 0 0 var(--accents-2);
+  transform: translateZ(0);
+  -webkit-backdrop-filter: saturate(180%) blur(5px);
+  backdrop-filter: saturate(180%) blur(5px);
+  background: hsla(0,0%,100%,.8)
 }
 
 @layer utilities {
